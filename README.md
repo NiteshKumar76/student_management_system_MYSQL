@@ -5,6 +5,8 @@ They exhibit my abilities in data investigation, visualization, and analysis.
 ## Authors
 - [@NiteshKumar76](https://www.github.com/octokatherine)
 ## Student management system Database 
+![Gemini_Generated_Image_2ws3e82ws3e82ws3](https://github.com/user-attachments/assets/1d3438e2-ae6f-4752-afdc-30695f3599e9)
+
 
 Welcome to the Student Management System Database repository! This repository contains the SQL scripts and database schema for implementing the database component of a school management system. The database is designed to store and manage various data related to students, teachers, courses,Result,Enrollment and other aspects of school operations.
 
