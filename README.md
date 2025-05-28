@@ -2,7 +2,7 @@
 ## SQL Project
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data.
 They exhibit my abilities in data investigation, visualization, and analysis.
-## Authors
+## Author
 - [@NiteshKumar76](https://www.github.com/octokatherine)
 ## Student management system Database 
 ![Gemini_Generated_Image_2ws3e82ws3e82ws3](https://github.com/user-attachments/assets/1d3438e2-ae6f-4752-afdc-30695f3599e9)
